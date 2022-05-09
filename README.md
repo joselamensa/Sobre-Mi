@@ -4,7 +4,7 @@ Hi 👋 My name is Jose Lamensa
 Desarollador full stack en proceso...
 -------------------------------------
 
-En el año 2022 arranqué con la carrera
+Tengo 20 años. Finalicé mis estudios secundarios en el colegio Sworn Junior College. Al finalizar realicé el CBC de diseño industrial y decidí cambiarme de carrera al finalizar lo. En el año 2022 arranqué con la carrera de desarrollador web full stack en Coder House. Por el momento finalicé el curso de desarrollador web, proximamente Java Script, React Js y Programación Backend.
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [Mi Portfolio](http://https://github.com/joselamensa?tab=repositories)
