@@ -1,4 +1,4 @@
-Hi 👋 My name is Jose Lamensa
+Hola! 👋 Mi nombre es: Jose Lamensa
 =============================
 
 Desarollador full stack en proceso...
