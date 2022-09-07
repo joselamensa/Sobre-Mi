@@ -10,8 +10,8 @@ Tengo 20 años. Finalicé mis estudios secundarios en el colegio Sworn Junior Co
 * 🖥️  See my portfolio at [Mi Portfolio](http://https://github.com/joselamensa?tab=repositories)
 * ✉️  You can contact me at [joselamensa10@gmail.com](mailto:joselamensa10@gmail.com)
 * 🚀  I'm currently working on [Helion Pharma](http://http://helionpharma.com.ar/)
-* 🧠  I'm learning Java Script
-* 🤝  I'm open to collaborating on Any project related with HTML, CSS, SCSS, JAVA SCRIPT.
+* 🧠  I'm learning React JS
+* 🤝  I'm open to collaborating on Any project related with HTML, CSS, SCSS, JAVA SCRIPT, REACT JS.
 
 ### Skills
 
