@@ -11,7 +11,7 @@ Tengo 21 años. Finalicé mis estudios secundarios en el colegio Sworn Junior Co
 * ✉️  You can contact me at [joselamensa10@gmail.com](mailto:joselamensa10@gmail.com)
 * 🚀  I'm currently working on [Helion Pharma](http://http://helionpharma.com.ar/)
 * 📔  I'm learning Back end full stack in Coder House
-* 🤝  I'm open to collaborating on Any project related with HTML, CSS, SCSS, JAVA SCRIPT, REACT JS.
+* 🤝  I'm open to collaborating on Any project related with a Full Stack project.
 
 ### Skills
 
