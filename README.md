@@ -4,7 +4,7 @@ Hola! 👋 Mi nombre es: Jose Lamensa
 Desarollador full stack en proceso...
 -------------------------------------
 
-Tengo 21 años. Finalicé mis estudios secundarios en el colegio Sworn Junior College en el año 2019. Al finalizar, realicé el CBC de diseño industrial. En el año 2022 arranqué con la carrera de desarrollador web full stack en Coder House. Por el momento finalicé el curso de desarrollador web, Java Script, React Js y Programación Backend.
+Tengo 21 años. Finalicé mis estudios secundarios en el colegio Sworn Junior College en el año 2019. Al finalizar, realicé el CBC de diseño industrial. En Febrero del año 2022 arranqué con la carrera de desarrollador web full stack en Coder House. Por el momento finalicé el curso de desarrollador web, Java Script, React Js y Programación Backend.
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [Mi Portfolio](http://https://github.com/joselamensa?tab=repositories)
@@ -38,4 +38,3 @@ Tengo 21 años. Finalicé mis estudios secundarios en el colegio Sworn Junior Co
 
 <a href="http://www.github.com/joselamensa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joselamensa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/joselamensa"><img src="https://activity-graph.herokuapp.com/graph?username=joselamensa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
