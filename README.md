@@ -9,7 +9,7 @@ Tengo 22 años. Finalicé mis estudios secundarios en el colegio Sworn Junior Co
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [Mi Portfolio](http://https://github.com/joselamensa?tab=repositories)
 * ✉️  You can contact me at [joselamensa10@gmail.com](mailto:joselamensa10@gmail.com)
-* 🚀  I'm currently working on [Helion Pharma](http://http://helionpharma.com.ar/)
+* 🚀  I'm currently working on Lebrot Agency
 * 📔  I'm learning Back end full stack in Coder House
 * 🤝  I'm open to collaborating on Any project related with a Full Stack project.
 
